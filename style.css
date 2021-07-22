@@ -16,3 +16,24 @@ h1{
     font-style: italic;
     text-decoration: underline;
 }
+
+.p1{
+    font-size: 33px;
+    color:black;
+    text-align: center;
+}
+.sp2{
+    color: red;
+    margin-right: 10px;
+}
+.sp3{
+    text-decoration: underline;
+}
+.sp4{
+    text-decoration: line-through ;
+    text-decoration-style: double ;
+}
+.sp5{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}

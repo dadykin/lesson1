@@ -2,11 +2,14 @@ h1{
     font-size: 35px;
     font-family: sans-serif;
     font-weight: 300;
+    margin-left: 350pх;
 }
 
 .sp1{
     font-weight: 600;
     margin-right: 10px;
+    text-decoration:underline ;
+    
 }
 
 .h21{
@@ -16,11 +19,20 @@ h1{
     font-style: italic;
     text-decoration: underline;
 }
+.h22{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    margin-top: 15px;
+    letter-spacing: 1.5px;
+    color:rgb(5,1,112)
+}
 
 .p1{
     font-size: 33px;
     color:black;
     text-align: center;
+    margin-bottom: 0;
 }
 .sp2{
     color: red;
@@ -36,4 +48,39 @@ h1{
 .sp5{
     text-decoration: underline;
     text-decoration-style: wavy;
+    text-decoration-color: green;
+
+}
+.h33{
+    font-size: 24px;
+    font-family: "Courier New";
+    font-style: italic;
+    text-align: center;
+
+}
+.pp3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 200;
+    color:rgb(201,1,12);
+}
+.s44{
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    
+}
+.s55{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+.pp33{
+    font-weight: 1000;
+}
+.ppp{
+    font-size: 18px;
+    font-family: "Courier New";
+    font-style: italic;
+    text-align: right;
+    margin-right: 300px;
 }
